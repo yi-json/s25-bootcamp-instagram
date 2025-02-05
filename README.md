@@ -1,1 +1,1 @@
-"Recreation of Instagram Post UI in SwiftUI"
+Recreation of Instagram Post UI in SwiftUI
