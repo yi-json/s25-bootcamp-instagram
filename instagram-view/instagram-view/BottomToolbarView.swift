@@ -21,6 +21,7 @@ struct BottomToolbarView: View {
                 } label: {
                     Image(systemName: isHeart ? "heart.fill" : "heart")
                         .font(.title2)
+                        .foregroundColor(isHeart ? .red : .black)
                 }
                 Text("\(likes)")
                     .font(.title3)
